@@ -10,15 +10,18 @@ design:
   spacing: '6rem'
 
 sections:
-- block: markdown
-  content:
-    title: "Numerical Methods and Applications"
-    text: |-
-      ![GISC Logo](gisc.png)
+  - block: markdown
+    content:
+      title: "Numerical Methods and Applications"
+      subtitle: ""
+      text: |-
+        ![GISC Logo](gisc.png)
 
-      The research group **GISC (Grupo de Investigación en Sistemas Complejos)** at UC3M focuses on developing, analyzing, and applying mathematical models to complex systems. Our work spans nonlinear dynamics, PDEs, stochastic processes, and scientific computing.
-  design:
-    columns: '1'
+        The research group **GISC (Grupo de Investigación en Sistemas Complejos)** at UC3M focuses on developing, analyzing, and applying mathematical models to complex systems.
+
+        Our work spans nonlinear dynamics, PDEs, stochastic processes, and scientific computing.
+    design:
+      columns: "1"
   
   - block: markdown
     content:
