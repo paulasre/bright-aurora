@@ -14,11 +14,9 @@ sections:
   content:
     title: "Numerical Methods and Applications"
     text: |-
-      ![GISC Logo](logo gisc.png)
+      ![GISC Logo](gisc.png)
 
-      The research group **GISC (Grupo de Investigación en Sistemas Complejos)** at UC3M focuses on developing, analyzing, and applying mathematical models to complex systems.
-
-      Our work spans nonlinear dynamics, PDEs, stochastic processes, and scientific computing.
+      The research group **GISC (Grupo de Investigación en Sistemas Complejos)** at UC3M focuses on developing, analyzing, and applying mathematical models to complex systems. Our work spans nonlinear dynamics, PDEs, stochastic processes, and scientific computing.
   design:
     columns: '1'
   
